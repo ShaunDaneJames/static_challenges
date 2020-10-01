@@ -1,0 +1,15 @@
+h1 {
+  background-color: firebrick;
+  font-size: 20px;
+}
+
+p {
+  margin-top: 50px;
+margin-bottom: 100px;
+margin-right: 400px;
+margin-left: 15px;
+}
+
+body {
+  background-color: white;
+}
