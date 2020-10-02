@@ -1,6 +1,50 @@
-h1 {
+#header1 {
   background-color: firebrick;
   font-size: 20px;
+  font-family: Arial;
+  font-weight: bold;
+  color: white;
+  height: 30px;
+  padding-top: 10px;
+  padding-left: 20px;
+}
+
+#header2 {
+  font-size: 20px;
+  font-weight: bold;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 25px;
+  font-family: Arial;
+}
+
+#style1 {
+  background-color: #383838;
+  height: 40px;
+}
+
+#style2 {
+  background-color: #383838;
+  color: white;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+#sidebar{
+  float:right;width:240px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: Arial;
+}
+
+#mainpic{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 600px;
 }
 
 p {
